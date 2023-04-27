@@ -3,7 +3,6 @@
 **About me**
 
  - Computer Engineer at [Universidade Tecnologica Federal do Paraná](http://www.utfpr.edu.br)
- - Fullstack Developer at [CISS](https://ciss.com.br/)
 
 **Skills**
 
