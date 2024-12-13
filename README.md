@@ -10,5 +10,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizantoniona&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizantonio_na) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-antonio-nicolau-anghinoni-451633185) 
