@@ -21,11 +21,12 @@
 ---
 ## 📬 **Contacts**  
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Luiz-Anghinoni)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-antonio-nicolau-anghinoni/) 
 
 ---
 ## 📚 **Publications**
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Luiz-Anghinoni)
 
 📌 **Nov 2024** – *Journal of Health Informatics*  
 📄 **Detecção de epilepsia em eletroencefalogramas utilizando redes neurais convolucionais reduzidas**  
