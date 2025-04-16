@@ -27,6 +27,10 @@
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Luiz-Anghinoni)
 
+📌 **Mar 2025** – *Master’s Thesis*  
+📄 **The use of multi-domain electroencephalogram representations in the building of models based on convolutional and recurrent neural networks for epilepsy detection**  
+🔗 [Read More](https://repositorio.utfpr.edu.br/jspui/handle/1/36556)  
+
 📌 **Nov 2024** – *Journal of Health Informatics*  
 📄 **Detecção de epilepsia em eletroencefalogramas utilizando redes neurais convolucionais reduzidas**  
 🔗 [Read More](https://www.researchgate.net/publication/385979561_Deteccao_de_epilepsia_em_eletroencefalogramas_utilizando_redes_neurais_convolucionais_reduzidas)  
