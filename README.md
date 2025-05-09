@@ -29,11 +29,13 @@
 
 📄 **The use of multi-domain electroencephalogram representations in the building of models based on convolutional and recurrent neural networks for epilepsy detection**  
 📅 **Mar 2025** - 📘 *Master Thesis*  
-🔗 [Read More](https://repositorio.utfpr.edu.br/jspui/handle/1/36556)  
+📚 **Preprint DOI:** [arXiv:2504.17908v1](https://doi.org/10.48550/arXiv.2504.17908)  
+🔗 [Read More](https://www.researchgate.net/publication/391219682_The_use_of_Multi-domain_Electroencephalogram_Representations_in_the_building_of_Models_based_on_Convolutional_and_Recurrent_Neural_Networks_for_Epilepsy_Detection)  
 💻 [Repository](https://github.com/luizantoniona/eeg-epileptic-seizure-detection)
 
 📄 **Detecção de epilepsia em eletroencefalogramas utilizando redes neurais convolucionais reduzidas**  
-📅 **Nov 2024** - 📘 *Journal of Health Informatics* - 📚 **DOI:** [10.59681/2175-4411.v16.iEspecial.2024.1279](https://doi.org/10.59681/2175-4411.v16.iEspecial.2024.1279)  
+📅 **Nov 2024** - 📘 *Journal of Health Informatics*  
+📚 **DOI:** [10.59681/2175-4411.v16.iEspecial.2024.1279](https://doi.org/10.59681/2175-4411.v16.iEspecial.2024.1279)  
 🔗 [Read More](https://www.researchgate.net/publication/385979561_Deteccao_de_epilepsia_em_eletroencefalogramas_utilizando_redes_neurais_convolucionais_reduzidas)  
 💻 [Repository](https://github.com/luizantoniona/eeg-epileptic-seizure-detection/releases/tag/v1.0.0-CBIS)
 
